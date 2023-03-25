@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1679312160646,
+      "username": "123456",
+      "email": "vantuanxyz741@gmail.com",
+      "password": "12345678",
+      "address": "yên hoa - na hang - tuyên quang",
+      "createdAt": 1679312160646
+    },
+    {
+      "id": 1679713493881,
+      "username": "hoangmanh",
+      "email": "manhhoang860321@gmail.com",
+      "password": "123123123",
+      "address": "na duong",
+      "createdAt": 1679713493881
+    }
+  ]
+}
